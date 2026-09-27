@@ -1,0 +1,19 @@
+# MkDocs
+site/
+
+# Banc de preguntes avaluables d'Aules.
+# Conté les respostes correctes: NO ha d'arribar mai al repositori públic.
+scripts/banc_aules.py
+aules/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Editors i sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

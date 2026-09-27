@@ -1,0 +1,326 @@
+{
+  "titol": "U05. Computació en el núvol",
+  "ra": "RA3",
+  "preguntes": [
+    {
+      "id": "u05-01",
+      "tipus": "mc",
+      "enunciat": "Tarongina utilitza Microsoft 365 sense instal·lar ni mantindre cap servidor. Quin model de servei és?",
+      "opcions": [
+        {
+          "text": "SaaS (programari com a servei)",
+          "retro": "Correcte. L'empresa només fa servir l'aplicació; el proveïdor s'encarrega de tota la resta.",
+          "correcta": true
+        },
+        {
+          "text": "IaaS (infraestructura com a servei)",
+          "retro": "No. En IaaS l'empresa lloga màquines virtuals i les gestiona ella mateixa.",
+          "correcta": false
+        },
+        {
+          "text": "PaaS (plataforma com a servei)",
+          "retro": "No. El PaaS ofereix una plataforma per a desplegar aplicacions pròpies.",
+          "correcta": false
+        },
+        {
+          "text": "Núvol privat",
+          "retro": "No. El model de servei i el de desplegament són coses diferents.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-02",
+      "tipus": "mc",
+      "enunciat": "Quin model de núvol contracta una empresa que lloga màquines virtuals i hi instal·la el sistema operatiu i les aplicacions que vol?",
+      "opcions": [
+        {
+          "text": "IaaS",
+          "retro": "Correcte. Es lloga la infraestructura i el client gestiona tot el que hi ha damunt.",
+          "correcta": true
+        },
+        {
+          "text": "SaaS",
+          "retro": "No. En SaaS el client no gestiona ni el sistema operatiu ni l'aplicació.",
+          "correcta": false
+        },
+        {
+          "text": "PaaS",
+          "retro": "No. En PaaS el proveïdor també gestiona el sistema operatiu i l'entorn d'execució.",
+          "correcta": false
+        },
+        {
+          "text": "Edge computing",
+          "retro": "No. L'edge és una arquitectura de processament, no un model de servei.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-03",
+      "tipus": "mc",
+      "enunciat": "Què és l'edge computing?",
+      "opcions": [
+        {
+          "text": "Processar les dades a prop d'on es generen, al dispositiu o al costat del procés",
+          "retro": "Correcte. Redueix la latència i la quantitat de dades que cal enviar al núvol.",
+          "correcta": true
+        },
+        {
+          "text": "Processar-ho tot en un centre de dades remot",
+          "retro": "No. Això és el model de núvol centralitzat.",
+          "correcta": false
+        },
+        {
+          "text": "Esborrar les dades antigues per a estalviar espai",
+          "retro": "No. L'edge no consisteix a esborrar res.",
+          "correcta": false
+        },
+        {
+          "text": "Xifrar les dades abans d'enviar-les",
+          "retro": "No. El xifratge és una mesura de seguretat, no una arquitectura.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-04",
+      "tipus": "mc",
+      "enunciat": "Per què a Tarongina interessa processar en l'edge les dades del control de temperatura de les cambres?",
+      "opcions": [
+        {
+          "text": "Perquè cal reaccionar a l'instant encara que es perda la connexió a internet",
+          "retro": "Correcte. La seguretat alimentària no pot dependre que la línia funcione.",
+          "correcta": true
+        },
+        {
+          "text": "Perquè és sempre més barat que el núvol",
+          "retro": "No necessàriament: cada arquitectura té els seus costos.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè el núvol no admet dades de temperatura",
+          "retro": "No és cert: el núvol admet qualsevol tipus de dada.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè la llei prohibeix enviar dades industrials al núvol",
+          "retro": "No existeix cap prohibició d'aquest tipus.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-05",
+      "tipus": "mc",
+      "enunciat": "Com se situen els conceptes de fog i mist respecte de l'edge i el núvol?",
+      "opcions": [
+        {
+          "text": "Són capes intermèdies entre els dispositius i el núvol, amb el mist molt prop del sensor",
+          "retro": "Correcte. De més prop a més lluny: mist, edge, fog i núvol.",
+          "correcta": true
+        },
+        {
+          "text": "Són sinònims exactes de núvol públic",
+          "retro": "No. Designen capes de processament diferents.",
+          "correcta": false
+        },
+        {
+          "text": "Són models de facturació dels proveïdors de núvol",
+          "retro": "No. No tenen relació amb la facturació.",
+          "correcta": false
+        },
+        {
+          "text": "Són protocols de xifratge per a l'IoT",
+          "retro": "No. No són protocols de seguretat.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-06",
+      "tipus": "mc",
+      "enunciat": "Quin és un dels principals avantatges del núvol per a una pime com Tarongina?",
+      "opcions": [
+        {
+          "text": "L'escalabilitat: es paga pel que es fa servir i es creix sense comprar servidors",
+          "retro": "Correcte. Molt útil quan la campanya concentra el pic de feina en pocs mesos.",
+          "correcta": true
+        },
+        {
+          "text": "Que elimina totalment la necessitat de connexió a internet",
+          "retro": "Al contrari: la dependència de la connexió augmenta.",
+          "correcta": false
+        },
+        {
+          "text": "Que les dades deixen d'estar subjectes al RGPD",
+          "retro": "No. La responsabilitat sobre les dades continua sent de l'empresa.",
+          "correcta": false
+        },
+        {
+          "text": "Que la seguretat passa a ser responsabilitat exclusiva del proveïdor",
+          "retro": "No. Hi ha un model de responsabilitat compartida.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-07",
+      "tipus": "mc",
+      "enunciat": "Quin és un inconvenient real de migrar al núvol?",
+      "opcions": [
+        {
+          "text": "La dependència del proveïdor i la dificultat de canviar-ne més endavant",
+          "retro": "Correcte. És el que es coneix com a vendor lock-in.",
+          "correcta": true
+        },
+        {
+          "text": "Que sempre resulta més car que tindre servidors propis",
+          "retro": "Depén del cas: en molts escenaris és més barat.",
+          "correcta": false
+        },
+        {
+          "text": "Que no permet fer còpies de seguretat",
+          "retro": "No és cert: les còpies són un dels serveis bàsics.",
+          "correcta": false
+        },
+        {
+          "text": "Que obliga a canviar tots els ordinadors de l'empresa",
+          "retro": "No és cert.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-08",
+      "tipus": "mc",
+      "enunciat": "Què és el núvol híbrid?",
+      "opcions": [
+        {
+          "text": "Una combinació de recursos propis i de núvol públic que treballen conjuntament",
+          "retro": "Correcte. Permet mantindre en casa allò més sensible i portar la resta al núvol.",
+          "correcta": true
+        },
+        {
+          "text": "Un núvol que només funciona de nit",
+          "retro": "No té cap sentit tècnic.",
+          "correcta": false
+        },
+        {
+          "text": "Un servei que barreja diferents sistemes operatius",
+          "retro": "No. La barreja no és de sistemes operatius, sinó de models de desplegament.",
+          "correcta": false
+        },
+        {
+          "text": "Un núvol compartit entre empreses de la competència",
+          "retro": "Això s'acostaria més al concepte de núvol comunitari.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-09",
+      "tipus": "mc",
+      "enunciat": "Quina funció NO és pròpia del núvol?",
+      "opcions": [
+        {
+          "text": "Garantir que el personal de l'empresa tinga formació digital",
+          "retro": "Efectivament: la formació és responsabilitat de l'organització, no del proveïdor.",
+          "correcta": true
+        },
+        {
+          "text": "Emmagatzemar dades i fitxers",
+          "retro": "Sí que ho és: és una de les funcions bàsiques.",
+          "correcta": false
+        },
+        {
+          "text": "Executar aplicacions accessibles des de qualsevol lloc",
+          "retro": "Sí que ho és.",
+          "correcta": false
+        },
+        {
+          "text": "Processar grans volums de dades sota demanda",
+          "retro": "Sí que ho és, i és un dels grans motius per a adoptar-lo.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u05-10",
+      "tipus": "mc",
+      "enunciat": "Si els sensors del camp envien una lectura cada segon, què és el més raonable des del punt de vista de l'arquitectura?",
+      "opcions": [
+        {
+          "text": "Filtrar i agregar les dades en l'edge i enviar al núvol només resums i alarmes",
+          "retro": "Correcte. Enviar-ho tot és car, lent i innecessari.",
+          "correcta": true
+        },
+        {
+          "text": "Enviar totes les lectures al núvol sense filtrar",
+          "retro": "És costós en dades i en diners, i sovint inútil.",
+          "correcta": false
+        },
+        {
+          "text": "Guardar-les només en el sensor i no enviar-ne cap",
+          "retro": "Llavors es perdria la possibilitat d'analitzar-les.",
+          "correcta": false
+        },
+        {
+          "text": "Imprimir un informe diari amb totes les lectures",
+          "retro": "És just el contrari de digitalitzar.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

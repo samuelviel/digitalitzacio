@@ -1,0 +1,326 @@
+{
+  "titol": "U01. Digitalització en els sistemes productius",
+  "ra": "RA1",
+  "preguntes": [
+    {
+      "id": "u01-01",
+      "tipus": "mc",
+      "enunciat": "Tarongina escaneja tots els albarans d'entrada de fruita i els guarda en PDF en una carpeta del servidor. Com es diu això?",
+      "opcions": [
+        {
+          "text": "Digitització",
+          "retro": "Només canvia el suport: el paper passa a ser un fitxer, però el procés de treball continua igual.",
+          "correcta": true
+        },
+        {
+          "text": "Transformació digital",
+          "retro": "No. La transformació digital canvia el model de negoci i la manera de treballar, no només el format dels documents.",
+          "correcta": false
+        },
+        {
+          "text": "Convergència IT-OT",
+          "retro": "No. La convergència IT-OT és la integració entre els sistemes de negoci i els de planta.",
+          "correcta": false
+        },
+        {
+          "text": "Automatització industrial",
+          "retro": "No. Ací no hi ha cap màquina ni cap procés productiu automatitzat.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-02",
+      "tipus": "mc",
+      "enunciat": "Quina d'aquestes afirmacions descriu millor la transformació digital?",
+      "opcions": [
+        {
+          "text": "Un canvi integral de processos, cultura i model de negoci recolzat en la tecnologia",
+          "retro": "Exacte. Va molt més enllà d'incorporar eines: canvia com treballa i com guanya diners l'organització.",
+          "correcta": true
+        },
+        {
+          "text": "Comprar equipament informàtic més modern per a tota l'empresa",
+          "retro": "No. Renovar maquinari no canvia per si sol la manera de treballar.",
+          "correcta": false
+        },
+        {
+          "text": "Passar tots els documents de paper a format digital",
+          "retro": "Això és digitització, el primer nivell i el més superficial.",
+          "correcta": false
+        },
+        {
+          "text": "Contractar una empresa externa que gestione la informàtica",
+          "retro": "No. Externalitzar el suport tècnic no transforma el negoci.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-03",
+      "tipus": "mc",
+      "enunciat": "La calibradora òptica que classifica la fruita per mida al magatzem de Tarongina pertany a...",
+      "opcions": [
+        {
+          "text": "L'entorn OT",
+          "retro": "Correcte. L'OT controla i supervisa processos i màquines del món físic.",
+          "correcta": true
+        },
+        {
+          "text": "L'entorn IT",
+          "retro": "No. L'IT gestiona la informació del negoci: dades, aplicacions i comunicacions.",
+          "correcta": false
+        },
+        {
+          "text": "Cap dels dos: és només maquinària",
+          "retro": "No. Qualsevol màquina amb control automatitzat forma part de l'entorn OT.",
+          "correcta": false
+        },
+        {
+          "text": "Tots dos, perquè és una màquina amb programari",
+          "retro": "Que tinga programari no la fa IT: el criteri és què controla, i ací controla un procés físic.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-04",
+      "tipus": "mc",
+      "enunciat": "Quina és la prioritat principal en un entorn OT?",
+      "opcions": [
+        {
+          "text": "La disponibilitat del procés i la seguretat de les persones",
+          "retro": "Correcte. Una parada de producció o un accident són molt més greus que una filtració puntual de dades.",
+          "correcta": true
+        },
+        {
+          "text": "La confidencialitat de les dades",
+          "retro": "Eixa és la prioritat típica de l'entorn IT.",
+          "correcta": false
+        },
+        {
+          "text": "Renovar els equips cada tres anys",
+          "retro": "Al contrari: en OT els equips solen durar entre deu i vint anys.",
+          "correcta": false
+        },
+        {
+          "text": "Aplicar actualitzacions automàtiques cada setmana",
+          "retro": "No. En OT actualitzar sovint implica parar la producció, així que es fa molt poques vegades.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-05",
+      "tipus": "mc",
+      "enunciat": "Quin d'aquests departaments constitueix típicament un entorn IT?",
+      "opcions": [
+        {
+          "text": "El departament d'administració i comptabilitat",
+          "retro": "Correcte. Treballa amb informació del negoci: facturació, ERP i comptabilitat.",
+          "correcta": true
+        },
+        {
+          "text": "El magatzem de confecció de fruita",
+          "retro": "No. El magatzem és un entorn OT: màquines i processos físics.",
+          "correcta": false
+        },
+        {
+          "text": "El servei de reg de les finques",
+          "retro": "No. Els sensors i els programadors de reg són entorn OT.",
+          "correcta": false
+        },
+        {
+          "text": "La cambra frigorífica",
+          "retro": "No. És un equip de control de procés físic, per tant OT.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-06",
+      "tipus": "mc",
+      "enunciat": "Quina d'aquestes tecnologies és pròpia de la digitalització en planta?",
+      "opcions": [
+        {
+          "text": "Sensors IoT i autòmats programables (PLC)",
+          "retro": "Correcte. Són tecnologies que actuen directament sobre el procés productiu.",
+          "correcta": true
+        },
+        {
+          "text": "Un sistema CRM de gestió de clients",
+          "retro": "No. El CRM és digitalització en negoci.",
+          "correcta": false
+        },
+        {
+          "text": "La facturació electrònica",
+          "retro": "No. És digitalització en negoci, de l'àrea administrativa.",
+          "correcta": false
+        },
+        {
+          "text": "Un quadre de comandament de direcció (BI)",
+          "retro": "No. El BI dona suport a la presa de decisions de negoci.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-07",
+      "tipus": "mc",
+      "enunciat": "Per què és important connectar els entorns IT i OT d'una empresa?",
+      "opcions": [
+        {
+          "text": "Perquè la informació puja i baixa sense copiar-se a mà, i les decisions es prenen amb dades reals",
+          "retro": "Correcte. Cada còpia manual és un retard i una font d'errors.",
+          "correcta": true
+        },
+        {
+          "text": "Perquè així es pot fer servir el mateix antivirus en tota l'empresa",
+          "retro": "No. Unificar l'antivirus no és el motiu, i de fet connectar-ho tot també comporta riscos nous.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè permet estalviar en llicències de programari",
+          "retro": "No és el motiu principal: el valor està en el flux d'informació.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè la llei obliga les empreses industrials a fer-ho",
+          "retro": "No existeix cap obligació legal general en aquest sentit.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-08",
+      "tipus": "mc",
+      "enunciat": "A Tarongina, la calibradora imprimeix un tiquet que després algú tecleja en l'ordinador de l'oficina. Quin problema evidencia?",
+      "opcions": [
+        {
+          "text": "Manca de connexió entre l'entorn OT i l'entorn IT",
+          "retro": "Exacte. La dada existeix en digital, es converteix en paper i torna a teclejar-se: és el símptoma clàssic de dos móns que no es parlen.",
+          "correcta": true
+        },
+        {
+          "text": "Que la calibradora està mal configurada",
+          "retro": "No. La màquina fa la seua faena correctament; el que falta és la integració.",
+          "correcta": false
+        },
+        {
+          "text": "Que el personal d'oficina no té formació suficient",
+          "retro": "No. El problema és de disseny del sistema, no de les persones.",
+          "correcta": false
+        },
+        {
+          "text": "Que cal substituir l'ERP per un de més modern",
+          "retro": "No necessàriament: l'ERP pot ser adequat i faltar només la integració.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-09",
+      "tipus": "mc",
+      "enunciat": "Quin és un dels principals avantatges de digitalitzar una empresa d'extrem a extrem?",
+      "opcions": [
+        {
+          "text": "Traçabilitat: se sap on és cada producte i d'on ve en qualsevol moment",
+          "retro": "Correcte. És especialment valuós en el sector agroalimentari i per a l'exportació.",
+          "correcta": true
+        },
+        {
+          "text": "Que desapareix la necessitat de personal qualificat",
+          "retro": "Al contrari: sol requerir perfils més qualificats i formació contínua.",
+          "correcta": false
+        },
+        {
+          "text": "Que s'elimina completament el risc de ciberatacs",
+          "retro": "Just al revés: connectar-ho tot amplia la superfície d'atac.",
+          "correcta": false
+        },
+        {
+          "text": "Que la inversió inicial és sempre molt baixa",
+          "retro": "No. La inversió inicial acostuma a ser un dels principals obstacles.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u01-10",
+      "tipus": "mc",
+      "enunciat": "Quin d'aquests NO és un inconvenient habitual de la transformació digital?",
+      "opcions": [
+        {
+          "text": "La millora en la presa de decisions basada en dades",
+          "retro": "Efectivament, això és un avantatge, no un inconvenient.",
+          "correcta": true
+        },
+        {
+          "text": "La resistència al canvi per part de la plantilla",
+          "retro": "Sí que ho és: és un dels obstacles més citats en qualsevol projecte.",
+          "correcta": false
+        },
+        {
+          "text": "La inversió inicial i els sistemes antics difícils de substituir",
+          "retro": "Sí que ho és: el llegat tecnològic frena molts projectes.",
+          "correcta": false
+        },
+        {
+          "text": "Els nous riscos de ciberseguretat en connectar la planta",
+          "retro": "Sí que ho és: en connectar l'OT s'obrin vies d'atac que abans no existien.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "titol": "U02. Tecnologies habilitadores digitals",
+  "ra": "RA2",
+  "preguntes": [
+    {
+      "id": "u02-01",
+      "tipus": "mc",
+      "enunciat": "Què són les tecnologies habilitadores digitals (THD)?",
+      "opcions": [
+        {
+          "text": "El conjunt de tecnologies clau que fan possible la transformació digital de les empreses",
+          "retro": "Correcte. Són la infraestructura i les capacitats sobre les quals es construeix la digitalització.",
+          "correcta": true
+        },
+        {
+          "text": "Les aplicacions d'ofimàtica que utilitza el personal d'oficina",
+          "retro": "No. L'ofimàtica és una eina de treball, no una tecnologia habilitadora.",
+          "correcta": false
+        },
+        {
+          "text": "Els programes de disseny assistit per ordinador",
+          "retro": "No. És una aplicació concreta, no una família de tecnologies transformadores.",
+          "correcta": false
+        },
+        {
+          "text": "Les normes legals que regulen la digitalització de les empreses",
+          "retro": "No. La normativa acompanya el procés, però no és una tecnologia.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-02",
+      "tipus": "mc",
+      "enunciat": "Tarongina vol que un client alemany puga comprovar de quina finca ve cada caixa i que aquesta informació no es puga alterar. Quina THD encaixa millor?",
+      "opcions": [
+        {
+          "text": "Blockchain",
+          "retro": "Correcte. És un registre distribuït en què les dades, una vegada escrites, són molt difícils de modificar.",
+          "correcta": true
+        },
+        {
+          "text": "Realitat augmentada",
+          "retro": "No. La RA superposa informació digital sobre el món real, però no garanteix la integritat del registre.",
+          "correcta": false
+        },
+        {
+          "text": "Impressió 3D",
+          "retro": "No. La fabricació additiva no té relació amb la traçabilitat documental.",
+          "correcta": false
+        },
+        {
+          "text": "Robòtica col·laborativa",
+          "retro": "No. Els cobots treballen al costat de les persones, però no registren traçabilitat.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-03",
+      "tipus": "mc",
+      "enunciat": "Què és un bessó digital (digital twin)?",
+      "opcions": [
+        {
+          "text": "Una rèplica virtual d'un objecte o procés real que s'alimenta de dades i permet simular-lo",
+          "retro": "Correcte. Permet provar canvis i anticipar problemes sense tocar el sistema real.",
+          "correcta": true
+        },
+        {
+          "text": "Una còpia de seguretat duplicada d'un servidor",
+          "retro": "No. Una còpia de seguretat no simula el comportament del sistema.",
+          "correcta": false
+        },
+        {
+          "text": "Un segon compte d'usuari per a la mateixa persona",
+          "retro": "No. No té cap relació amb la gestió d'identitats.",
+          "correcta": false
+        },
+        {
+          "text": "Una màquina idèntica de reserva per si la principal s'avaria",
+          "retro": "No. El bessó digital és virtual, no una màquina física.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-04",
+      "tipus": "mc",
+      "enunciat": "Quina característica defineix millor les xarxes 5G com a tecnologia habilitadora?",
+      "opcions": [
+        {
+          "text": "Alta velocitat, baixa latència i molts dispositius connectats alhora",
+          "retro": "Correcte. Per això són la base de connectivitat de l'IoT industrial.",
+          "correcta": true
+        },
+        {
+          "text": "Que substitueixen completament les xarxes de fibra òptica",
+          "retro": "No. Es complementen amb la fibra, no la substitueixen.",
+          "correcta": false
+        },
+        {
+          "text": "Que garanteixen la seguretat de les dades per si mateixes",
+          "retro": "No. La seguretat continua requerint mesures específiques.",
+          "correcta": false
+        },
+        {
+          "text": "Que només funcionen en entorns industrials tancats",
+          "retro": "No. El 5G és una tecnologia de xarxa mòbil d'ús general.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-05",
+      "tipus": "mc",
+      "enunciat": "Quina diferència hi ha entre l'economia lineal i l'economia circular?",
+      "opcions": [
+        {
+          "text": "La lineal produeix, consumeix i descarta; la circular busca reduir residus i reaprofitar recursos",
+          "retro": "Correcte. La circular tanca el cicle en lloc d'acabar en l'abocador.",
+          "correcta": true
+        },
+        {
+          "text": "La lineal és més moderna que la circular",
+          "retro": "No. L'economia circular és precisament el model alternatiu i més recent.",
+          "correcta": false
+        },
+        {
+          "text": "La circular només s'aplica a empreses de reciclatge",
+          "retro": "No. És un model aplicable a qualsevol sector productiu.",
+          "correcta": false
+        },
+        {
+          "text": "No hi ha diferència real, són sinònims",
+          "retro": "No. Són models antagònics en el plantejament i en el tractament dels residus.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-06",
+      "tipus": "mc",
+      "enunciat": "Tarongina lloga la maquinària de reg en lloc de comprar-la i paga per hores d'ús. A quin model de negoci sostenible correspon?",
+      "opcions": [
+        {
+          "text": "Producte com a servei",
+          "retro": "Correcte. Es reemplaça l'adquisició del producte per la prestació del servei que aquest ofereix.",
+          "correcta": true
+        },
+        {
+          "text": "Simbiosi industrial",
+          "retro": "No. La simbiosi industrial és l'intercanvi de fluxos entre empreses diferents.",
+          "correcta": false
+        },
+        {
+          "text": "Ecodisseny",
+          "retro": "No. L'ecodisseny actua en la fase de disseny del producte.",
+          "correcta": false
+        },
+        {
+          "text": "Producció JIT",
+          "retro": "No. El JIT consisteix a produir just en el moment en què cal.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-07",
+      "tipus": "mc",
+      "enunciat": "Tarongina cedeix la pela i el destrí de la taronja a una empresa veïna que en fabrica pinso. Com s'anomena aquest model?",
+      "opcions": [
+        {
+          "text": "Simbiosi industrial",
+          "retro": "Correcte. Els residus d'una empresa es converteixen en matèria primera d'una altra.",
+          "correcta": true
+        },
+        {
+          "text": "Extensió de la vida del producte",
+          "retro": "No. Aquest model busca allargar la vida útil d'un producte, no aprofitar-ne els residus.",
+          "correcta": false
+        },
+        {
+          "text": "Producció JIT",
+          "retro": "No. El JIT es refereix al moment de producció, no a l'aprofitament de residus.",
+          "correcta": false
+        },
+        {
+          "text": "Obsolescència programada",
+          "retro": "No. Precisament és el contrari del que busca la sostenibilitat.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-08",
+      "tipus": "mc",
+      "enunciat": "Què caracteritza la indústria 5.0 respecte de la indústria 4.0?",
+      "opcions": [
+        {
+          "text": "Posa la persona treballadora en el centre del procés, amb un ús intensiu de les THD",
+          "retro": "Correcte. La 4.0 se centrava a digitalitzar i automatitzar; la 5.0 hi afegeix la dimensió humana i sostenible.",
+          "correcta": true
+        },
+        {
+          "text": "Elimina completament la intervenció humana en la producció",
+          "retro": "No. Justament al contrari: recupera el paper de les persones.",
+          "correcta": false
+        },
+        {
+          "text": "Recupera els processos manuals de la indústria tradicional",
+          "retro": "No. La indústria 5.0 no és una tornada arrere tecnològica.",
+          "correcta": false
+        },
+        {
+          "text": "És el nom que rep l'automatització amb energia elèctrica",
+          "retro": "Això correspon a la segona revolució industrial.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-09",
+      "tipus": "mc",
+      "enunciat": "Quin d'aquests és un mercat nou generat per l'IoT?",
+      "opcions": [
+        {
+          "text": "L'agricultura intel·ligent, amb sensors que monitoren cultius i clima",
+          "retro": "Correcte. És, a més, el més proper al cas de Tarongina.",
+          "correcta": true
+        },
+        {
+          "text": "Els contractes intel·ligents en cadenes de blocs",
+          "retro": "No. Els contractes intel·ligents són un mercat generat pel blockchain.",
+          "correcta": false
+        },
+        {
+          "text": "La formació immersiva amb ulleres de realitat virtual",
+          "retro": "No. Correspon al mercat de la RV.",
+          "correcta": false
+        },
+        {
+          "text": "La creació de pròtesis mèdiques personalitzades",
+          "retro": "No. És un mercat generat per la impressió 3D.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u02-10",
+      "tipus": "mc",
+      "enunciat": "La cooperativa vol reduir l'ús d'aigua i de productes fitosanitaris. Quina combinació de THD hi ajudaria més directament?",
+      "opcions": [
+        {
+          "text": "Sensors IoT al camp i analítica de dades per a decidir quan i quant regar",
+          "retro": "Correcte. Mesurar primer i decidir amb dades és la via per a optimitzar recursos.",
+          "correcta": true
+        },
+        {
+          "text": "Impressió 3D i realitat virtual",
+          "retro": "No tenen relació directa amb l'optimització del reg.",
+          "correcta": false
+        },
+        {
+          "text": "Blockchain i contractes intel·ligents",
+          "retro": "Serveixen per a la traçabilitat i la confiança, no per a estalviar aigua.",
+          "correcta": false
+        },
+        {
+          "text": "Robòtica col·laborativa i xarxes 5G",
+          "retro": "El 5G dona connectivitat, però per si sol no optimitza el consum.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

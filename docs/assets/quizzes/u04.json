@@ -1,0 +1,326 @@
+{
+  "titol": "U04. Big Data i dades",
+  "ra": "RA5",
+  "preguntes": [
+    {
+      "id": "u04-01",
+      "tipus": "mc",
+      "enunciat": "Quina és la diferència entre dada i informació?",
+      "opcions": [
+        {
+          "text": "La informació és el resultat de processar les dades i donar-los context",
+          "retro": "Correcte. «23» és una dada; «hui fa 23 °C a la finca del Pla» ja és informació.",
+          "correcta": true
+        },
+        {
+          "text": "Són sinònims: només canvia la paraula",
+          "retro": "No. Una dada aïllada no significa res fins que es processa i es contextualitza.",
+          "correcta": false
+        },
+        {
+          "text": "Una dada sempre és més valuosa que la informació",
+          "retro": "No. El valor per a decidir està en la informació.",
+          "correcta": false
+        },
+        {
+          "text": "La informació sempre és numèrica i la dada no",
+          "retro": "No. Ni una cosa ni l'altra: el format no és el criteri.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-02",
+      "tipus": "mc",
+      "enunciat": "Quines són les característiques clàssiques que defineixen el Big Data?",
+      "opcions": [
+        {
+          "text": "Volum, velocitat i varietat",
+          "retro": "Correcte. Són les tres «V» clàssiques, a les quals sovint s'afegeixen la veracitat i el valor.",
+          "correcta": true
+        },
+        {
+          "text": "Velocitat, seguretat i preu",
+          "retro": "No. La seguretat i el preu són consideracions importants, però no defineixen el concepte.",
+          "correcta": false
+        },
+        {
+          "text": "Volum, vigilància i validesa",
+          "retro": "No. No és la formulació habitual del concepte.",
+          "correcta": false
+        },
+        {
+          "text": "Varietat, visibilitat i virtualització",
+          "retro": "No. La virtualització pertany a un altre àmbit.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-03",
+      "tipus": "mc",
+      "enunciat": "Quin d'aquests passos NO forma part del cicle de vida de la dada?",
+      "opcions": [
+        {
+          "text": "La impressió obligatòria en paper per a arxivar-la",
+          "retro": "Efectivament, no forma part del cicle: és, de fet, un pas cap arrere.",
+          "correcta": true
+        },
+        {
+          "text": "La captura o recollida de la dada",
+          "retro": "Sí que en forma part: és el primer pas del cicle.",
+          "correcta": false
+        },
+        {
+          "text": "L'emmagatzematge i el processament",
+          "retro": "Sí que en formen part.",
+          "correcta": false
+        },
+        {
+          "text": "L'eliminació o l'arxivat quan ja no és necessària",
+          "retro": "Sí que en forma part: tota dada té un final de vida previst.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-04",
+      "tipus": "mc",
+      "enunciat": "Una empresa guarda les còpies de seguretat en el mateix servidor on estan les dades originals. Per què és un problema greu?",
+      "opcions": [
+        {
+          "text": "Perquè un incident que afecte el servidor destrueix alhora les dades i la còpia",
+          "retro": "Correcte. Una còpia que cau amb l'original no és realment una còpia de seguretat.",
+          "correcta": true
+        },
+        {
+          "text": "Perquè ocupa massa espai en disc",
+          "retro": "L'espai és un problema menor comparat amb el risc real.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè les còpies de seguretat estan prohibides per llei",
+          "retro": "No és cert: la normativa n'exigeix, no les prohibeix.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè alenteix la xarxa de l'oficina",
+          "retro": "Pot passar, però no és el problema de fons.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-05",
+      "tipus": "mc",
+      "enunciat": "Quina norma regula la protecció de les dades personals a la Unió Europea?",
+      "opcions": [
+        {
+          "text": "El Reglament general de protecció de dades (RGPD)",
+          "retro": "Correcte. A l'Estat espanyol es complementa amb la LOPDGDD.",
+          "correcta": true
+        },
+        {
+          "text": "La norma ISO 9001",
+          "retro": "No. La ISO 9001 tracta de la gestió de la qualitat.",
+          "correcta": false
+        },
+        {
+          "text": "La Llei de propietat intel·lectual",
+          "retro": "No. Regula els drets d'autor, no les dades personals.",
+          "correcta": false
+        },
+        {
+          "text": "L'Estatut dels treballadors",
+          "retro": "No. Regula les relacions laborals.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-06",
+      "tipus": "mc",
+      "enunciat": "Quines dades de Tarongina són dades personals i, per tant, estan subjectes al RGPD?",
+      "opcions": [
+        {
+          "text": "El nom, el DNI i el compte bancari de les persones sòcies",
+          "retro": "Correcte. Identifiquen persones físiques i requereixen protecció especial.",
+          "correcta": true
+        },
+        {
+          "text": "La temperatura registrada per les cambres frigorífiques",
+          "retro": "No. No permet identificar cap persona.",
+          "correcta": false
+        },
+        {
+          "text": "El calibre mitjà de la fruita d'una partida",
+          "retro": "No. És una dada de producte, no personal.",
+          "correcta": false
+        },
+        {
+          "text": "Les tones de taronja collides per finca",
+          "retro": "Només ho serien si permeteren identificar una persona concreta.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-07",
+      "tipus": "mc",
+      "enunciat": "Quin és l'ordre correcte de les etapes típiques d'un projecte de ciència de dades?",
+      "opcions": [
+        {
+          "text": "Recollida, neteja, anàlisi, modelatge i visualització dels resultats",
+          "retro": "Correcte. La neteja sol ser la fase més llarga i la més oblidada.",
+          "correcta": true
+        },
+        {
+          "text": "Modelatge, recollida, visualització i neteja",
+          "retro": "No. No es pot modelar abans de tindre i netejar les dades.",
+          "correcta": false
+        },
+        {
+          "text": "Visualització, anàlisi, recollida i neteja",
+          "retro": "No. La visualització és el final del procés, no el principi.",
+          "correcta": false
+        },
+        {
+          "text": "Neteja, visualització, recollida i modelatge",
+          "retro": "No. La recollida sempre va primer.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-08",
+      "tipus": "mc",
+      "enunciat": "Per què es diu que les dades són un actiu estratègic de l'empresa?",
+      "opcions": [
+        {
+          "text": "Perquè permeten prendre decisions fonamentades i generen avantatge competitiu",
+          "retro": "Correcte. Una empresa que mesura pot millorar; una que no mesura, decideix a cegues.",
+          "correcta": true
+        },
+        {
+          "text": "Perquè es poden vendre lliurement a tercers",
+          "retro": "No. La venda de dades està fortament limitada per la normativa.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè ocupen espai i cal pagar per emmagatzemar-les",
+          "retro": "Això és un cost, no el motiu pel qual són un actiu.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè la llei obliga a conservar-les indefinidament",
+          "retro": "No. La normativa fixa terminis i el principi de minimització.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-09",
+      "tipus": "mc",
+      "enunciat": "Què és un KPI?",
+      "opcions": [
+        {
+          "text": "Un indicador clau que mesura el grau de compliment d'un objectiu",
+          "retro": "Correcte. Per exemple: percentatge de comandes servides a temps.",
+          "correcta": true
+        },
+        {
+          "text": "Un tipus de base de dades distribuïda",
+          "retro": "No. No té relació amb l'emmagatzematge.",
+          "correcta": false
+        },
+        {
+          "text": "Un protocol de comunicació entre màquines",
+          "retro": "No. No és una tecnologia de comunicació.",
+          "correcta": false
+        },
+        {
+          "text": "Un programa de còpies de seguretat",
+          "retro": "No. No té cap relació amb les còpies.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u04-10",
+      "tipus": "mc",
+      "enunciat": "Quina mesura de seguretat protegiria millor Tarongina davant d'un segrest de dades (ransomware)?",
+      "opcions": [
+        {
+          "text": "Còpies de seguretat fora de línia i provades periòdicament",
+          "retro": "Correcte. Si la còpia està desconnectada i s'ha comprovat que es pot restaurar, l'impacte es redueix molt.",
+          "correcta": true
+        },
+        {
+          "text": "Canviar la contrasenya del wifi cada mes",
+          "retro": "Ajuda, però no protegeix davant d'un xifratge de fitxers.",
+          "correcta": false
+        },
+        {
+          "text": "Instal·lar només un antivirus gratuït",
+          "retro": "Insuficient: cap antivirus detecta el cent per cent de les amenaces.",
+          "correcta": false
+        },
+        {
+          "text": "Guardar-ho tot en un únic servidor ben protegit",
+          "retro": "Al contrari: concentrar-ho tot en un punt augmenta el risc.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

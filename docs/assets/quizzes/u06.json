@@ -1,0 +1,326 @@
+{
+  "titol": "U06. Projecte de transformació digital",
+  "ra": "RA6",
+  "preguntes": [
+    {
+      "id": "u06-01",
+      "tipus": "mc",
+      "enunciat": "Què significa l'acrònim OKR?",
+      "opcions": [
+        {
+          "text": "Objectius i resultats clau (Objectives and Key Results)",
+          "retro": "Correcte. És una metodologia per a fixar metes i mesurar-ne el progrés.",
+          "correcta": true
+        },
+        {
+          "text": "Organització, coneixement i rendiment",
+          "retro": "No. No és el significat de l'acrònim.",
+          "correcta": false
+        },
+        {
+          "text": "Operacions clau de referència",
+          "retro": "No. No és el significat de l'acrònim.",
+          "correcta": false
+        },
+        {
+          "text": "Objectius de compliment normatiu",
+          "retro": "No. No té relació amb el compliment normatiu.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-02",
+      "tipus": "mc",
+      "enunciat": "Quina d'aquestes formulacions és un resultat clau ben definit segons el mètode SMART?",
+      "opcions": [
+        {
+          "text": "Reduir el temps de facturació de 5 a 2 dies abans del 30 de juny",
+          "retro": "Correcte. És específic, mesurable, assolible, rellevant i acotat en el temps.",
+          "correcta": true
+        },
+        {
+          "text": "Millorar bastant la gestió administrativa",
+          "retro": "No és mesurable ni està acotat en el temps.",
+          "correcta": false
+        },
+        {
+          "text": "Ser una cooperativa més moderna",
+          "retro": "És un desig, no un resultat clau mesurable.",
+          "correcta": false
+        },
+        {
+          "text": "Digitalitzar-ho tot al més aviat possible",
+          "retro": "Ni és específic ni té un termini concret.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-03",
+      "tipus": "mc",
+      "enunciat": "Quants blocs té el model canvas i per a què serveix?",
+      "opcions": [
+        {
+          "text": "Nou blocs, i serveix per a visualitzar en una sola pàgina com funciona un model de negoci",
+          "retro": "Correcte. Permet que tot l'equip tinga una comprensió compartida del negoci.",
+          "correcta": true
+        },
+        {
+          "text": "Cinc blocs, i serveix per a planificar les tasques d'un projecte",
+          "retro": "No. Ni el nombre de blocs ni la finalitat són correctes.",
+          "correcta": false
+        },
+        {
+          "text": "Dotze blocs, i serveix per a analitzar la competència",
+          "retro": "No. No és el model canvas.",
+          "correcta": false
+        },
+        {
+          "text": "Quatre blocs, i serveix per a avaluar riscos",
+          "retro": "Això s'assembla més a una matriu de riscos.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-04",
+      "tipus": "mc",
+      "enunciat": "En una matriu de riscos, com es calcula l'impacte d'un risc?",
+      "opcions": [
+        {
+          "text": "Multiplicant la gravetat per la probabilitat",
+          "retro": "Correcte. Amb escales d'1 a 5, l'impacte va d'1 a 25.",
+          "correcta": true
+        },
+        {
+          "text": "Sumant la gravetat i la probabilitat",
+          "retro": "No. La fórmula habitual és el producte, no la suma.",
+          "correcta": false
+        },
+        {
+          "text": "Dividint el cost entre el temps de resolució",
+          "retro": "No. No és així com es construeix la matriu.",
+          "correcta": false
+        },
+        {
+          "text": "Comptant quantes vegades ha passat abans",
+          "retro": "L'experiència prèvia ajuda a estimar la probabilitat, però no és el càlcul.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-05",
+      "tipus": "mc",
+      "enunciat": "En una matriu RACI, què significa la lletra A?",
+      "opcions": [
+        {
+          "text": "Aprovador: qui té l'autoritat per a aprovar o rebutjar la faena, i només n'hi ha un",
+          "retro": "Correcte. És un principi bàsic: una tasca, una única persona que aprova.",
+          "correcta": true
+        },
+        {
+          "text": "Assessor: qui aporta consells durant l'execució",
+          "retro": "Això correspondria a la C de consultat.",
+          "correcta": false
+        },
+        {
+          "text": "Assistent: qui ajuda la persona responsable",
+          "retro": "No forma part de l'acrònim RACI.",
+          "correcta": false
+        },
+        {
+          "text": "Analista: qui estudia els requisits de la tasca",
+          "retro": "No forma part de l'acrònim RACI.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-06",
+      "tipus": "mc",
+      "enunciat": "Quina diferència hi ha entre un OKR i un KPI?",
+      "opcions": [
+        {
+          "text": "L'OKR fixa una meta ambiciosa amb resultats mesurables; el KPI mesura el rendiment habitual",
+          "retro": "Correcte. L'OKR motiva i canvia cada cicle; el KPI vigila i es manté estable.",
+          "correcta": true
+        },
+        {
+          "text": "Són exactament el mateix",
+          "retro": "No. Tenen finalitats diferents i conviuen.",
+          "correcta": false
+        },
+        {
+          "text": "L'OKR és quantitatiu i el KPI sempre és qualitatiu",
+          "retro": "No. Precisament els resultats clau dels OKR han de ser quantificables.",
+          "correcta": false
+        },
+        {
+          "text": "El KPI només l'utilitzen les empreses grans",
+          "retro": "No és cert.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-07",
+      "tipus": "mc",
+      "enunciat": "Quina metodologia de gestió de projectes utilitza sprints curts i revisions periòdiques amb l'equip?",
+      "opcions": [
+        {
+          "text": "Scrum",
+          "retro": "Correcte. És una metodologia àgil basada en cicles curts i millora contínua.",
+          "correcta": true
+        },
+        {
+          "text": "Kanban",
+          "retro": "Kanban és àgil i visual, però no es basa en sprints amb data fixa.",
+          "correcta": false
+        },
+        {
+          "text": "Cascada (waterfall)",
+          "retro": "No. La cascada és seqüencial i poc flexible.",
+          "correcta": false
+        },
+        {
+          "text": "Lean startup",
+          "retro": "Se centra a eliminar malbaratament i validar hipòtesis, no en sprints.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-08",
+      "tipus": "mc",
+      "enunciat": "Per què és imprescindible la gestió del canvi en un projecte de transformació digital?",
+      "opcions": [
+        {
+          "text": "Perquè la major part dels fracassos venen de les persones, no de la tecnologia",
+          "retro": "Correcte. Sense formació, comunicació i implicació, el millor sistema acaba sense fer-se servir.",
+          "correcta": true
+        },
+        {
+          "text": "Perquè ho exigeix la normativa europea",
+          "retro": "No existeix cap obligació legal d'aquest tipus.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè permet reduir el pressupost del projecte",
+          "retro": "No és la seua finalitat.",
+          "correcta": false
+        },
+        {
+          "text": "Perquè substitueix la necessitat de fer formació",
+          "retro": "Al contrari: la formació n'és una part central.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-09",
+      "tipus": "mc",
+      "enunciat": "En el projecte de Tarongina, l'encarregat del magatzem es nega a fer servir la tauleta nova i continua apuntant en paper. Què cal activar?",
+      "opcions": [
+        {
+          "text": "Gestió del canvi: entendre'n el motiu, formar-lo i implicar-lo en la solució",
+          "retro": "Correcte. La resistència al canvi es gestiona escoltant i acompanyant, no imposant.",
+          "correcta": true
+        },
+        {
+          "text": "Substituir la persona per una altra amb més nivell digital",
+          "retro": "No és la primera resposta raonable ni la més efectiva.",
+          "correcta": false
+        },
+        {
+          "text": "Retirar la tauleta i tornar al paper",
+          "retro": "Seria renunciar al projecte sense analitzar-ne la causa.",
+          "correcta": false
+        },
+        {
+          "text": "Augmentar el pressupost en tecnologia",
+          "retro": "Més tecnologia no resol un problema d'adopció.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u06-10",
+      "tipus": "mc",
+      "enunciat": "Quina és la primera fase en la gestió d'un projecte?",
+      "opcions": [
+        {
+          "text": "La iniciació: definir el problema a resoldre i els objectius",
+          "retro": "Correcte. Sense un problema ben definit, la resta del projecte va a cegues.",
+          "correcta": true
+        },
+        {
+          "text": "L'execució de les tasques planificades",
+          "retro": "No. L'execució arriba després de la planificació.",
+          "correcta": false
+        },
+        {
+          "text": "El tancament i les lliçons apreses",
+          "retro": "No. És l'última fase.",
+          "correcta": false
+        },
+        {
+          "text": "La monitorització i el control",
+          "retro": "No. Acompanya l'execució, però no és la primera fase.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

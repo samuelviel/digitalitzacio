@@ -1,0 +1,326 @@
+{
+  "titol": "U03. Intel·ligència artificial",
+  "ra": "RA4",
+  "preguntes": [
+    {
+      "id": "u03-01",
+      "tipus": "mc",
+      "enunciat": "Quina d'aquestes tasques és un exemple clar d'intel·ligència artificial?",
+      "opcions": [
+        {
+          "text": "Detectar taronges amb defectes a partir de les imatges d'una càmera",
+          "retro": "Correcte. És visió artificial: un model que ha aprés a reconéixer patrons en imatges.",
+          "correcta": true
+        },
+        {
+          "text": "Programar un correu perquè s'envie cada dilluns a les 9 h",
+          "retro": "No. És una automatització amb una regla fixa, sense aprenentatge.",
+          "correcta": false
+        },
+        {
+          "text": "Guardar un full de càlcul en el núvol",
+          "retro": "No. És emmagatzematge, no intel·ligència artificial.",
+          "correcta": false
+        },
+        {
+          "text": "Ordenar alfabèticament una llista de clients",
+          "retro": "No. És una operació determinista de tota la vida.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-02",
+      "tipus": "mc",
+      "enunciat": "Què és el machine learning?",
+      "opcions": [
+        {
+          "text": "Una tècnica que permet a un sistema millorar a partir de dades, sense programar cada cas",
+          "retro": "Correcte. El model aprén dels exemples en lloc de seguir regles escrites a mà.",
+          "correcta": true
+        },
+        {
+          "text": "Un llenguatge de programació especialitzat en IA",
+          "retro": "No. El machine learning és una disciplina, no un llenguatge.",
+          "correcta": false
+        },
+        {
+          "text": "El manteniment automàtic de la maquinària industrial",
+          "retro": "No. Això és manteniment predictiu, que pot fer servir machine learning però no és el mateix.",
+          "correcta": false
+        },
+        {
+          "text": "Un tipus de robot que aprén a moure's sol",
+          "retro": "No. És un concepte de programari, no una categoria de robots.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-03",
+      "tipus": "mc",
+      "enunciat": "Quina relació hi ha entre la IA i el Big Data?",
+      "opcions": [
+        {
+          "text": "La IA necessita grans volums de dades de qualitat per a entrenar els seus models",
+          "retro": "Correcte. Sense dades no hi ha analítica, i sense analítica no hi ha IA útil.",
+          "correcta": true
+        },
+        {
+          "text": "Són el mateix concepte amb dos noms diferents",
+          "retro": "No. El Big Data són les dades i la seua gestió; la IA és el que se'n fa després.",
+          "correcta": false
+        },
+        {
+          "text": "La IA serveix per a reduir la quantitat de dades que guarda l'empresa",
+          "retro": "No és eixa la seua finalitat.",
+          "correcta": false
+        },
+        {
+          "text": "El Big Data va substituir la IA fa uns anys",
+          "retro": "No. Són disciplines complementàries, no successives.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-04",
+      "tipus": "mc",
+      "enunciat": "Quin llenguatge de programació predomina en projectes d'intel·ligència artificial i ciència de dades?",
+      "opcions": [
+        {
+          "text": "Python",
+          "retro": "Correcte. Concentra les biblioteques més utilitzades: scikit-learn, TensorFlow o PyTorch.",
+          "correcta": true
+        },
+        {
+          "text": "HTML",
+          "retro": "No. HTML és un llenguatge de marques per a estructurar pàgines web.",
+          "correcta": false
+        },
+        {
+          "text": "SQL",
+          "retro": "SQL és fonamental per a consultar dades, però no és el llenguatge en què s'entrenen els models.",
+          "correcta": false
+        },
+        {
+          "text": "CSS",
+          "retro": "No. CSS serveix per a donar estil a les pàgines web.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-05",
+      "tipus": "mc",
+      "enunciat": "Tarongina vol preveure quantes tones collirà aquesta campanya per a organitzar el magatzem. Quin tipus de problema d'IA és?",
+      "opcions": [
+        {
+          "text": "Un problema de predicció a partir de dades històriques i meteorològiques",
+          "retro": "Correcte. És un cas típic d'analítica predictiva.",
+          "correcta": true
+        },
+        {
+          "text": "Un problema de visió artificial",
+          "retro": "No. La visió artificial treballa amb imatges, no amb sèries de dades històriques.",
+          "correcta": false
+        },
+        {
+          "text": "Un problema de processament de llenguatge natural",
+          "retro": "No. Ací no hi intervé cap text ni cap conversa.",
+          "correcta": false
+        },
+        {
+          "text": "Un problema que la IA no pot abordar",
+          "retro": "Al contrari: la predicció de demanda i producció és un dels usos més estesos.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-06",
+      "tipus": "mc",
+      "enunciat": "Què és la visió artificial?",
+      "opcions": [
+        {
+          "text": "La capacitat d'un sistema d'interpretar imatges o vídeo per a reconéixer objectes o defectes",
+          "retro": "Correcte. Al magatzem permetria detectar fruita amb taques, cops o mida incorrecta.",
+          "correcta": true
+        },
+        {
+          "text": "La possibilitat de veure les càmeres de seguretat des del mòbil",
+          "retro": "No. Visualitzar imatges no és interpretar-les automàticament.",
+          "correcta": false
+        },
+        {
+          "text": "Un sistema de realitat virtual per a formar operaris",
+          "retro": "No. Això és RV, una tecnologia diferent.",
+          "correcta": false
+        },
+        {
+          "text": "La digitalització de fotografies antigues de l'empresa",
+          "retro": "No. Escanejar imatges és digitització.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-07",
+      "tipus": "mc",
+      "enunciat": "Quin d'aquests sectors té actualment una implantació més rellevant de la IA?",
+      "opcions": [
+        {
+          "text": "La banca, per a detectar fraus en transaccions",
+          "retro": "Correcte. És un dels casos d'ús més consolidats i rendibles.",
+          "correcta": true
+        },
+        {
+          "text": "L'artesania tradicional",
+          "retro": "No és un sector amb implantació destacada d'IA.",
+          "correcta": false
+        },
+        {
+          "text": "La restauració familiar de barri",
+          "retro": "No és dels sectors on la IA té una implantació més rellevant.",
+          "correcta": false
+        },
+        {
+          "text": "El comerç ambulant",
+          "retro": "No és un sector amb una implantació significativa d'IA.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-08",
+      "tipus": "mc",
+      "enunciat": "Quin risc cal tindre en compte quan s'automatitza una decisió amb IA?",
+      "opcions": [
+        {
+          "text": "Que el model reproduïsca els biaixos presents en les dades amb què s'ha entrenat",
+          "retro": "Correcte. Si les dades històriques estan esbiaixades, el model aprendrà eixe biaix i el repetirà.",
+          "correcta": true
+        },
+        {
+          "text": "Que el model necessite connexió a internet per a funcionar",
+          "retro": "És una limitació tècnica menor, i no sempre certa.",
+          "correcta": false
+        },
+        {
+          "text": "Que els models d'IA no es puguen programar en Python",
+          "retro": "No és cert: Python és precisament el llenguatge dominant.",
+          "correcta": false
+        },
+        {
+          "text": "Que la IA sempre siga més cara que fer-ho a mà",
+          "retro": "No és cert de manera general; depén del cas.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-09",
+      "tipus": "mc",
+      "enunciat": "Com pot influir la IA en el perfil professional de la informàtica?",
+      "opcions": [
+        {
+          "text": "Apareixen tasques noves d'integració de models, tractament de dades i validació de resultats",
+          "retro": "Correcte. El perfil evoluciona cap a integrar, avaluar i mantindre sistemes intel·ligents.",
+          "correcta": true
+        },
+        {
+          "text": "Desapareixerà la necessitat de programar res",
+          "retro": "No. Continua sent imprescindible integrar, provar i mantindre els sistemes.",
+          "correcta": false
+        },
+        {
+          "text": "Afecta només les grans empreses tecnològiques",
+          "retro": "No. Cada vegada més pimes incorporen serveis d'IA.",
+          "correcta": false
+        },
+        {
+          "text": "Només afecta el personal de màrqueting",
+          "retro": "No. Afecta de ple els perfils tècnics.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    },
+    {
+      "id": "u03-10",
+      "tipus": "mc",
+      "enunciat": "Un assistent conversacional que atén els dubtes de les persones sòcies de la cooperativa és un exemple de...",
+      "opcions": [
+        {
+          "text": "Processament del llenguatge natural",
+          "retro": "Correcte. El sistema interpreta i genera text en llenguatge humà.",
+          "correcta": true
+        },
+        {
+          "text": "Manteniment predictiu",
+          "retro": "No. El manteniment predictiu anticipa avaries en equips.",
+          "correcta": false
+        },
+        {
+          "text": "Bessó digital",
+          "retro": "No. Un bessó digital replica un objecte o procés físic.",
+          "correcta": false
+        },
+        {
+          "text": "Automatització robòtica de planta",
+          "retro": "No. Ací no hi ha cap procés físic implicat.",
+          "correcta": false
+        },
+        {
+          "text": "No ho sé",
+          "retro": "Cap problema: torna als apunts de la unitat i prova-ho una altra vegada.",
+          "correcta": false
+        }
+      ]
+    }
+  ]
+}

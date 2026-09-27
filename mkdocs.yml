@@ -1,0 +1,120 @@
+site_name: Digitalització aplicada als sectors productius
+site_description: Mòdul 1665 · CFGS de la família d'Informàtica i Comunicacions · Curs 2026-2027
+site_author: ''
+site_url: https://EL-TEU-USUARI.github.io/digitalitzacio/
+
+theme:
+  name: material
+  language: ca
+  favicon: assets/favicon.png
+  icon:
+    logo: material/leaf-circle
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Canvia a mode fosc
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Canvia a mode clar
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/quiz.js
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  # El cercador no té stemmer per al català; el castellà és el més pròxim
+  # i funciona bé amb accents i plurals. La interfície continua en valencià.
+  - search:
+      lang: es
+
+nav:
+  - Inici: index.md
+  - El mòdul:
+      - Presentació: modul/presentacio.md
+      - Resultats d'aprenentatge: modul/resultats.md
+      - Metodologia: modul/metodologia.md
+      - Avaluació: modul/avaluacio.md
+      - Calendari: modul/calendari.md
+  - Tarongina: empresa.md
+  - Unitats:
+      - U01. Digitalització en els sistemes productius:
+          - u01/index.md
+          - Activitats: u01/activitats.md
+          - Qüestionari: u01/questionari.md
+      - U02. Tecnologies habilitadores digitals:
+          - u02/index.md
+          - Activitats: u02/activitats.md
+          - Qüestionari: u02/questionari.md
+      - U03. Intel·ligència artificial:
+          - u03/index.md
+          - Activitats: u03/activitats.md
+          - Qüestionari: u03/questionari.md
+      - U04. Big Data i dades:
+          - u04/index.md
+          - Activitats: u04/activitats.md
+          - Qüestionari: u04/questionari.md
+      - U05. Computació en el núvol:
+          - u05/index.md
+          - Activitats: u05/activitats.md
+          - Qüestionari: u05/questionari.md
+      - U06. Projecte de transformació digital:
+          - u06/index.md
+          - Activitats: u06/activitats.md
+          - Qüestionari: u06/questionari.md
+  - Projecte final:
+      - projecte/index.md
+      - Plantilla: projecte/plantilla.md
+      - Rúbrica: projecte/rubrica.md
+  - Recursos:
+      - recursos/index.md
+      - Glossari: recursos/glossari.md
